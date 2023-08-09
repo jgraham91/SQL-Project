@@ -43,7 +43,7 @@ I would have cleaned the data from the all_sessions file where I would only kept
 
 I did start on the task of making a unique all_session2 data set to generate an ERD in pgadmin4, but dont have time to run the full analysis. 
 
-![ERD](ERD_Image.png)
+![ERD](images/ERD_Image.png)
 
 
 
